@@ -1,3 +1,3 @@
 # Quadratic-equation-solver
-Pretty self explanatory smh lol ooooo
+Pretty self explanatory smh 
 
